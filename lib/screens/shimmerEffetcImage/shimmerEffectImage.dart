@@ -8,7 +8,7 @@ class CustomImage extends StatelessWidget {
   final double width;
   const CustomImage({
     Key? key,
-     this.imagePath,
+    this.imagePath,
     this.height = 100,
     this.width = 100,
   }) : super(key: key);
